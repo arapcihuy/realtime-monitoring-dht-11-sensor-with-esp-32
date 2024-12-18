@@ -1,0 +1,8 @@
+{
+  "name": "Realtime Monitoring DHT 11 Sensor with ESP32",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "99afc9dc"
+}
